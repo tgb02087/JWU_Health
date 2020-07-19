@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "810381525252",
+    "firebase_url": "https://jwu-health-gym.firebaseio.com",
+    "project_id": "jwu-health-gym",
+    "storage_bucket": "jwu-health-gym.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810381525252:android:0f1f52821197230d115051",
+        "android_client_info": {
+          "package_name": "com.program.jwuhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810381525252-1kueeuvld310nh4nimfnh54j24376ce5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.program.jwuhealth",
+            "certificate_hash": "34bfd3b44ea0ec38cea7f43970b415c8400ff938"
+          }
+        },
+        {
+          "client_id": "810381525252-pe5ffd7b7eda5d8vq33d84db29ct7a5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1E9hJduZLbhB3o0dnY51-t7UWOsKP2Ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810381525252-pe5ffd7b7eda5d8vq33d84db29ct7a5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
